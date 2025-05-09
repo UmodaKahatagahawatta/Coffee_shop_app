@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "813345387699",
+    "project_id": "food-delivery-commercial",
+    "storage_bucket": "food-delivery-commercial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813345387699:android:cd9ffb0d9a45fa3c3e2cc6",
+        "android_client_info": {
+          "package_name": "com.dbestech.dbfoodInternalOne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813345387699-l2r1qcjg3sp57qiurrh9jpgcas81e5sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dbestech.dbfoodInternalOne",
+            "certificate_hash": "266aa55053ad194bbeddd06289503dbcb68b6030"
+          }
+        },
+        {
+          "client_id": "813345387699-imohe9v09enu9flqh3njjgh2meipc14j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj20g_pDeualIzkp9DOrsJTMc7-SMfJmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813345387699-imohe9v09enu9flqh3njjgh2meipc14j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813345387699-mk28kemmhkj5okbjedn7thd7o1bo3asf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbestech.dbfoodInternalOne"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
